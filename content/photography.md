@@ -14,8 +14,5 @@ Here's a selection of favorites from my personal still photography.
 
 Thanks for looking!
 
-GALLERY SHOULD BE HERE
-{{< foldergallery src="/images/" >}}
 
-
-DEBUG POINT
+{{< foldergallery src="images" >}}
