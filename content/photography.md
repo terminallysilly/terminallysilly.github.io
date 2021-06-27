@@ -13,10 +13,9 @@ Here's a selection of favorites from my personal still photography.
 
 
 Thanks for looking!
-{{< gallery
-    match="images/*"
-    showExif="true"
-    sortOrder="desc"
-    loadJQuery="false"
-    embedPreview="true"
->}}
+
+GALLERY SHOULD BE HERE
+{{< foldergallery src="/images/" >}}
+
+
+DEBUG POINT

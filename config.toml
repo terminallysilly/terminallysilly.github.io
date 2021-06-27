@@ -6,10 +6,10 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 defaultContentLanguage = "en"
 
 # The name of this wonderful theme ;-).
-theme = ["hugo-scroll", "hugo-shortcode-gallery"]
+theme = ["hugo-scroll"]
 
 # The "title" of your website
-title = "Derek Edwards"
+title = "Derek Edwards - Home"
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
@@ -36,15 +36,6 @@ title = "Derek Edwards"
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
     # hidedesignbyline = true
-
-    galleryRowHeight    = 200
-    galleryMargins      = 10
-    galleryResizeOptions= "800x800 q88 Lanczos"
-    galleryPreviewType  = "blur"
-    galleryThumbnailHoverEffect = "enlarge"
-
-    [imaging.exif]
-        includeFields = ".*"
 
 
     [params.meta]
