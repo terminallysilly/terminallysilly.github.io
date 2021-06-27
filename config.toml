@@ -6,10 +6,10 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 defaultContentLanguage = "en"
 
 # The name of this wonderful theme ;-).
-theme = "hugo-scroll"
+theme = ["hugo-scroll", "hugo-shortcode-gallery"]
 
 # The "title" of your website
-title = "Derek Edwards - Dog Dad Of The Year"
+title = "Derek Edwards"
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
@@ -17,7 +17,7 @@ title = "Derek Edwards - Dog Dad Of The Year"
     copyright = "© Derek Edwards"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Dog dad of the year!!!!"
+    description = "Derek Edwards"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     favicon = "images/favicon.png"
@@ -31,11 +31,21 @@ title = "Derek Edwards - Dog Dad Of The Year"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Derek Edwards - Dog Dad Of The Year"
+    title = "Derek Edwards"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
     # hidedesignbyline = true
+
+    galleryRowHeight    = 200
+    galleryMargins      = 10
+    galleryResizeOptions= "800x800 q88 Lanczos"
+    galleryPreviewType  = "blur"
+    galleryThumbnailHoverEffect = "enlarge"
+
+    [imaging.exif]
+        includeFields = ".*"
+
 
     [params.meta]
         keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"

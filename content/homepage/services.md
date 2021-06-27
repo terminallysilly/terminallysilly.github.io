@@ -1,20 +1,16 @@
 ---
-title: "Services"
+title: "Experience"
 weight: 2
 header_menu: true
 ---
 
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
+Opener
 
 ---
 
-## Nutrition Coaching
+## Work History
 
-This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
-
-![Nice picture to make you pay me ;-)](images/adansonii_tattoo.jpeg)
-
-Wow. That was nice, right? Well, call me and let us talk.
+insert work history
 
 ---
 
@@ -22,16 +18,14 @@ Wow. That was nice, right? Well, call me and let us talk.
 
 Did you see the picture above? I can show you how to go from
 
-![Let us get started on a clean slate](images/tardigrade_time.jpeg)
-
 to
-
-![Let us get started on a clean slate](images/what_the_hell.jpg)
 
 in estimated seconds.
 
 ---
 
-Want to learn more about my services?
+## Visual Media
 
-Check out [this page](services) I created. It carries a lot more details...
+Want to see some photography of my adventures?
+
+Then check out [this page](/photography)! I've moved off of social media in recent years due to ethical qualms with mainstream platforms handle their users' data, so this might be a good way to get to know me better.

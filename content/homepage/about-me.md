@@ -1,11 +1,15 @@
 ---
-title: "About Me"
+title: "Skills and Hobbies"
 weight: 3
 header_menu: true
 ---
 
-![Derek Edwards](images/tardigrade_time.jpeg)
+header_image: images/2K tele turnin 2.jpg
 
-##### Professional Experience
+##### Skills
 
-You know - you could put all sorts of stuff here because you're AN AWESOME PERSON. GO DEREK!!
+Bulleted List
+
+##### Hobbies
+
+Bulleted list
