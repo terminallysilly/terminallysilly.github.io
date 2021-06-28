@@ -1,15 +1,19 @@
 ---
-title: "Skills and Hobbies"
+title: "Work History and Skills"
 weight: 3
 header_menu: true
 ---
 
-header_image: images/2K tele turnin 2.jpg
+## Work History
 
-##### Skills
+insert iframe with resume .pdf
 
-Bulleted List
+any additional comments
 
-##### Hobbies
+## Skills
 
-Bulleted list
+bulleted list
+
+## Hobbies
+
+bulleted list
