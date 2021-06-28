@@ -1,6 +1,0 @@
-[submodule "themes/hugo-scroll "]
-	path = themes/hugo-scroll 
-	url = https://github.com/terminallysilly/hugo-scroll.git
-[submodule "themes/hugo-scroll"]
-	path = themes/hugo-scroll
-	url = https://github.com/terminallysilly/hugo-scroll.git
