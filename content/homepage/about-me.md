@@ -5,9 +5,6 @@ header_menu: true
 ---
 Here's a copy of my current resume; see my [LinkedIn](<https://www.linkedin.com/in/derek-edwards-26b59040/>) page for a more extensive work history and personal references.
 
-insert iframe with current resume .pdf
-
-
 ## Skills
 
 These are the things I'm pretty darn good at doing/ utilizing/ being right now:
