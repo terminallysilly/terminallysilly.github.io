@@ -24,11 +24,14 @@ These are the things I'm really good at doing/ utilizing/ being right now:
 * SSO troubleshooting
 * Log management (e.g. Splunk, DataDog, SumoLogic)
 * Network incident management
+E-commuting and productivity technologies (e.g. Slack, Zoom, BlueJeans, CloudApp, Notion, etc.)
 * Customer service
 * Remote work
-* E-commuting and productivity technologies (e.g. Slack, Zoom, BlueJeans, CloudApp, Notion, etc.)
+* Data entry and records management
 * Detail-oriented
 
 ## Hobbies
 
-My wife and I enjoy all things outdoors: we love to backcountry ski, cross-country ski, snowshoe, climb ice and rock, canyoneer, kayak, snorkel, surf, backpack, mountain bike, and day hike together, bringing the two dogs and other friends along whenever feasible! We're also passionate about closing the loop on our own resource production: we grow a large percentage of our own food using hydroponic, aeroponic, and traditional gardening methods, and we also forage, hunt, and fish whenever we can. I worked as a white-napkin chef for several years, so we work to utilize those skills and produce the majority of our meals at home from raw ingredients. We maintain several live culture food projects, such as water and milk kefirs, kombucha, jun, and also occasionally run other brewing projects. The remaining spare time we have outside of work goes to our extended family and friends, reading and other DIY and permaculture projects.
+My wife and I enjoy all things outdoors: we love to backcountry ski, cross-country ski, snowshoe, climb ice and rock, canyoneer, kayak, snorkel, surf, backpack, mountain bike, and day hike together, bringing the two dogs and other friends along whenever feasible!
+
+We're also passionate about closing the loop on our own resource production: we grow a large percentage of our own food using hydroponic, aeroponic, and traditional gardening methods, and we also forage, hunt, and fish whenever we can. I worked as a white-napkin chef for several years, so we work to utilize those skills and produce the majority of our meals at home from raw ingredients. We maintain several live culture food projects, such as water and milk kefirs, kombucha, jun, and also occasionally run other brewing projects. The remaining spare time we have outside of work goes to our extended family and friends, reading and other DIY and permaculture projects.
