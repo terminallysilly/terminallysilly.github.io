@@ -14,4 +14,4 @@ header_menu: true
 
 If you're interested in getting in touch, please reach out! My current work schedule may have our first communications landing asynchronously, but I do check my messages daily.
 
-I can also arrange to meet via video conferencing and chat apps like Zoom, Microsoft Teams, BlueJeans, and Discord.
+I can also arrange to meet via video conferencing and chat apps like Zoom, Microsoft Teams, or BlueJeans.

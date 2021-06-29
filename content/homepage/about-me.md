@@ -36,4 +36,4 @@ My wife and I enjoy all things outdoors: we love to backcountry ski, cross-count
 
 We're also passionate about closing the loop on our own resource production: we grow a large percentage of our own food using aeroponic/ conventional/ passive hydroponics systems and traditional gardening methods, and we also forage, hunt, and fish when we can. I worked as a white-napkin restaurant chef for several years, so we work to utilize those skills and produce the majority of our meals at home from raw and locally-sourced ingredients. We maintain several live culture food projects, such as water and milk kefirs, kombucha, jun, and also occasionally run other brewing projects. The remaining spare time we have outside of work goes to our extended family and friends, reading, playing and listening to music, and other DIY and permaculture projects.
 
-I like to stay busy.
+I like to stay busy!
