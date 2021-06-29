@@ -10,7 +10,7 @@ insert iframe with current resume .pdf
 
 ## Skills
 
-These are the things I'm really good at doing/ utilizing/ being right now:
+These are the things I'm pretty darn good at doing/ utilizing/ being right now:
 
 * Writing and editing
 * Microsoft Office and GSuite
