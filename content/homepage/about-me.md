@@ -38,4 +38,4 @@ We're also passionate about closing the loop on our own resource production: we 
 
 The remaining spare time we have outside of work goes to our extended family and friends, reading, playing and listening to music, and other DIY and permaculture projects.
 
-I love to learn and like to stay busy!
+I love to learn, and like to stay busy!
