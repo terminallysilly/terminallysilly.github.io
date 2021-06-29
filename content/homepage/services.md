@@ -6,8 +6,8 @@ header_menu: true
 
 Want to see some photography of my adventures?
 
-Then check out
+Then check out:
 
-">>" [this page](/photography)! "<<"
+## [this page](/photography)
 
-I've moved off of social media in recent years due to ethical qualms with how mainstream platforms handle their users' data, so this might be a good way to get to know me better.
+I've moved off of mainstream social media in recent years due to ethical qualms with how major platforms handle their users' data, so this should substitute as a good way to get to know me a little better!
