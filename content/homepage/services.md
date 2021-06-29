@@ -10,4 +10,4 @@ Then check out
 
 ">>" [this page](/photography)! "<<"
 
-I've moved off of social media in recent years due to ethical qualms with mainstream platforms handle their users' data, so this might be a good way to get to know me better.
+I've moved off of social media in recent years due to ethical qualms with how mainstream platforms handle their users' data, so this might be a good way to get to know me better.
