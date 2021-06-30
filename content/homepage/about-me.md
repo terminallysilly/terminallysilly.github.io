@@ -5,19 +5,10 @@ header_menu: true
 ---
 Here's a copy of my current resume; see my [LinkedIn](<https://www.linkedin.com/in/derek-edwards-26b59040/>) page for a more extensive work history and personal references.
 
-<object data="https://terminallysilly.github.io/docs/resume.pdf" type="application/pdf" width="700px" height="950px">
+<object data="https://terminallysilly.github.io/docs/derek_edwards_technical_writer.pdf" type="application/pdf" width="700px" height="950px">
     <embed src="https://docs.google.com/viewer?url=https://terminallysilly.github.io/docs/derek_edwards_technical_writer.pdf">
     </embed>
 </object>
-
-<!-- <object data="https://terminallysilly.github.io/docs/resume.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://terminallysilly.github.io/docs/resume.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object> -->
-
-<!-- <p><iframe src="https://docs.google.com/viewer?url=https://terminallysilly.github.io/docs/resume.pdf&embedded=true" frameborder="0" width="800" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p> -->
-
 
 
 ## Skills
