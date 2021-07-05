@@ -6,7 +6,7 @@ header_menu: true
 Here's a copy of my current resume; see my [LinkedIn](<https://www.linkedin.com/in/derek-edwards-26b59040/>) page for a more extensive work history and personal references.
 
 <object data="https://terminallysilly.github.io/docs/derek_edwards_technical_writer.pdf" type="application/pdf" width="700px" height="950px">
-    <embed src="https://docs.google.com/viewer?url=https://terminallysilly.github.io/docs/derek_edwards_technical_writer.pdf">
+    <embed src="https://docs.google.com/viewer?url=https://terminallysilly.github.io/docs/derek_edwards_technical_writer.pdf#view=fith">
     </embed>
 </object>
 
