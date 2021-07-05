@@ -6,7 +6,7 @@ header_menu: true
 
 {{<icon class="fa fa-envelope">}}&nbsp; Email [derek.d899@gmail.com](mailto:your-email@your-domain.com)
 
-{{<icon class="fa fa-phone">}}&nbsp; Text or Call [801-380-1660](tel:+491111555555)
+{{<icon class="fa fa-phone">}}&nbsp; Text or Call [801-380-1660](tel:+18013801660)
 
 {{<icon class="fa fa-linkedin">}}&nbsp; [LinkedIn](<https://www.linkedin.com/in/derek-edwards-26b59040/>)
 
