@@ -9,7 +9,7 @@ Here's a copy of my current resume; see my [LinkedIn](<https://www.linkedin.com/
     <embed src="https://docs.google.com/viewer?url=https://terminallysilly.github.io/docs/derek_edwards_technical_writer.pdf">
     </embed>
 </object>
-
+---
 
 ## Skills
 
