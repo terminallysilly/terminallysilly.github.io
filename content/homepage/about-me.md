@@ -16,11 +16,14 @@ Here's a copy of my current resume; see my [LinkedIn](<https://www.linkedin.com/
 These are the things I'm pretty darn good at doing/ utilizing/ being right now:
 
 * Writing and editing
+* Customer service
+* Remote work
 * Microsoft Office and GSuite
 * Adobe CC
-* Salesforce/ TalkDesk and ZenDesk
-* Workfront (workforce management software)
-* Learning management systems and SCORM
+* Intercom, Salesforce, TalkDesk and ZenDesk
+* Workfront admin (workforce management software)
+* Float.com admin
+* Learning management systems (e.g. Bridge, Canvas) and SCORM
 * SaaS technical support
 * HTML/ CSS and Markdown
 * API troubleshooting and Postman
@@ -28,8 +31,7 @@ These are the things I'm pretty darn good at doing/ utilizing/ being right now:
 * Log management (e.g. Splunk, DataDog, SumoLogic)
 * Network incident management
 * E-commuting and productivity technologies (e.g. Slack, Zoom, BlueJeans, CloudApp, Notion, etc.)
-* Customer service
-* Remote work
+* Conflict management
 * Data entry and records management
 * Detail-oriented
 
