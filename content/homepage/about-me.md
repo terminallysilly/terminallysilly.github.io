@@ -5,8 +5,8 @@ header_menu: true
 ---
 Here's a copy of my current resume; see my [LinkedIn](<https://www.linkedin.com/in/derek-e-26b59040//>) page for a more extensive work history and personal references.
 
-<object data="https://terminallysilly.github.io/docs/derek_edwards_technical_writer_updated.pdf?embedded=true#zoom=85" type="application/pdf" width="700px" height="950px">
-    <embed src="https://docs.google.com/viewer?url=https://terminallysilly.github.io/docs/derek_edwards_technical_writer_updated.pdf">
+<object data="https://terminallysilly.github.io/docs/derek_edwards_technical_writer_new.pdf?embedded=true#zoom=85" type="application/pdf" width="700px" height="950px">
+    <embed src="https://docs.google.com/viewer?url=https://terminallysilly.github.io/docs/derek_edwards_technical_writer_new.pdf">
     </embed>
 </object>
 <br></br>
