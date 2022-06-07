@@ -17,6 +17,7 @@ These are the things I'm pretty darn good at doing/ utilizing/ being right now:
 
 * Writing and editing
 * Customer service
+* Account management
 * Remote work
 * Microsoft Office and GSuite
 * Adobe CC
