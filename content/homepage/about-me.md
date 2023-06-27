@@ -17,6 +17,7 @@ These are the things I'm pretty darn good at doing/ utilizing/ being right now:
 
 * Writing and editing
 * Customer service
+* Manual QA
 * Account management
 * Remote work
 * Microsoft Office and GSuite
@@ -38,10 +39,10 @@ These are the things I'm pretty darn good at doing/ utilizing/ being right now:
 
 ## Hobbies
 
-My wife and I enjoy all things outdoors: we love to backcountry ski, cross-country ski, snowshoe, snowmobile, climb ice and rock, canyoneer, kayak, raft, sail, snorkel, surf, backpack, bikepack, mountain bike, and day hike together, bringing the two dogs and other friends along whenever feasible! I collect guidebooks and maps, and have accumulated a fairly extensive library covering much of the remaining wilderness regions in the United States.
+My wife and I enjoy all things outdoors: we love to backcountry ski, cross-country ski, snowshoe, snowmobile, climb ice and rock, 4x4, canyoneer, cave, kayak, raft, sail, snorkel, surf, backpack, bikepack, mountain bike, and day hike together, bringing the two dogs and other friends along whenever feasible! I collect guidebooks and maps, and have accumulated a fairly extensive library covering much of the remaining wilderness regions in the United States.
 
 We're also passionate about closing the loop on our own resource production: we grow a large percentage of our own food using aeroponic/ conventional/ passive hydroponics systems and traditional gardening methods, and we also forage, hunt, and fish when we can. I worked as a white-napkin restaurant chef for several years, so we work to utilize those skills and produce the majority of our meals at home from raw and locally-sourced ingredients. We maintain several live culture food projects, such as water and milk kefirs, kombucha, jun, and skyr. We also occasionally run other brewing projects.
 
-The remaining spare time we have outside of work goes to our extended family and friends, reading, playing and listening to music, and other DIY and permaculture projects.
+The remaining spare time we have outside of work goes to our extended family and friends, community service, working on electrical engineering learning (my wife is a hardware/ firmware engineer), radio projects, reading, playing and listening to music, and other DIY and permaculture projects.
 
 I love to learn, and like to stay busy!
