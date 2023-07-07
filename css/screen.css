@@ -473,7 +473,7 @@ ul li {
   margin-bottom: 0rem;
   text-align: center;
   color: #fff;
-  background: #2f9c8e no-repeat center center;
+  background: #b80135 no-repeat center center;
   background-size: cover;
 }
 
@@ -521,7 +521,7 @@ ul li {
   position: relative;
 }
 .post-holder.odd {
-  background: #2f9c8e;
+  background: #b80135;
   color: white;
 }
 
